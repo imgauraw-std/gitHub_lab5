@@ -1,3 +1,8 @@
 This is the Github World and I am your host "Gauraw" here.
 
+<<<<<<< HEAD
 This text is from the remote repository.
+=======
+
+Hello there, this is me from my local repository.
+>>>>>>> e8f6117 (second commit)
